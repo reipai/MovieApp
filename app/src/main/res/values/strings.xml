@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MovieList</string>
+
+    <string name="title_movie">Movie</string>
+    <string name="title_tvshow">TV Show</string>
+
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="image_poster">Image poster</string>
+    <string name="date_relealesed">Release Date</string>
+    <string name="title">Title</string>
+    <string name="status_detail">Released</string>
+    <string name="title_overview">Overview</string>
+    <string name="languange">English</string>
+    <string name="icon_language">icon_language</string>
+    <string name="genre_movie">Movie Genres</string>
+    <string name="genre_tvshow">TvShow Genres</string>
+    <string name="popularity">100.000</string>
+    <string name="detail_overview">Detail Overview</string>
+</resources>
